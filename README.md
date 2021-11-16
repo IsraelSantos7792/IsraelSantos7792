@@ -2,14 +2,14 @@
   
 ### Israel Santos  👋
 
-🇧🇷 Apaixonado por pessoas, tecnologia e games.
+Apaixonado por pessoas, tecnologia e games.
 
 <p align="left">
   💌 I’m currently working at Leadfy-imob.
 </p>
-I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).<br>
-How to reach me: e-mail: israelsantosti21@gmail.com<br>
-If I am not coding then I am playing CS:go or FIFA s2.<br>
+🔥 I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).<br>
+📨 How to reach me: e-mail: israelsantosti21@gmail.com<br>
+🕹 If I am not coding then I am playing CS:go or FIFA s2.<br>
 <br>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
