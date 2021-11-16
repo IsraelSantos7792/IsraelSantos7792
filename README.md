@@ -2,7 +2,7 @@
   
 ### Israel Santos  👋
 
-Apaixonado por pessoas, tecnologia e games.
+🇧🇷 Apaixonado por pessoas, tecnologia e games.
 
 <p align="left">
   💌 I’m currently working at Leadfy-imob.
