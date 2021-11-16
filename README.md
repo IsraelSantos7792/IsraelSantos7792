@@ -4,7 +4,12 @@
 
 Apaixonado por pessoas, tecnologia e games.
 
-I’m currently working at Leadfy-imob.
+<p align="left">
+  💌 I’m currently working at Leadfy-imob.
+</p>
+<p align="left">
+  I’m currently working at Leadfy-imob.
+</p>
 I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).
 How to reach me: e-mail: israelsantosti21@gmail.com
 If I am not coding then I am playing CS:go or FIFA s2.
