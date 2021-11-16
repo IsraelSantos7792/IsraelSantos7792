@@ -4,10 +4,10 @@
 
 Apaixonado por pessoas, tecnologia e games.
 
-telescope I’m currently working at Leadfy-imob.
-seedling I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).
-mailbox How to reach me: e-mail: israelsantosti21@gmail.com
-zap Fun fact: If I am not coding then I am playing CS:go or FIFA s2.
+I’m currently working at Leadfy-imob.
+I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).
+How to reach me: e-mail: israelsantosti21@gmail.com
+If I am not coding then I am playing CS:go or FIFA s2.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
