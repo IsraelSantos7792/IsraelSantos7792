@@ -46,8 +46,8 @@ object Israel {
 [twitter]: https://twitter.com/israels63800787
 [instagram]: https://www.instagram.com/israel.santossilva.98/
 [linkedin]: https://www.linkedin.com/in/israel-santos-94123915a/
-
 <br>
+
 ## Rede Sociais!
 
 🐦 [twitter][twitter] **|** 
