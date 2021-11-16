@@ -4,6 +4,11 @@
 
 Apaixonado por pessoas, tecnologia e games.
 
+telescope I’m currently working at Leadfy-imob.
+seedling I’m currently learning more about Ruby, Ruby on Rails, JavaScript(React).
+mailbox How to reach me: e-mail: israelsantosti21@gmail.com
+zap Fun fact: If I am not coding then I am playing CS:go or FIFA s2.
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -32,10 +37,6 @@ object Israel {
 
 
 ## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSantos7792&theme=dracula&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelSantos7792&show_icons=true&theme=dracula&line_height=27" alt="Israel Santos github stats"/>
