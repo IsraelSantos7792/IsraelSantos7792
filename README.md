@@ -48,7 +48,7 @@ object Israel {
 [linkedin]: https://www.linkedin.com/in/israel-santos-94123915a/
 
 <br>
-#### Rede Sociais!
+## Rede Sociais!
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
