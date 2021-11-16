@@ -23,7 +23,6 @@ object Israel {
  val languages = listOf("Ruby", "RubyOnRails", "JavaScript", "MySql", "React", "Linux", "ElasticSearch") 
 }
 ```
-<br>
 
 ## **Linguagens e Ferramentas:**  
 
@@ -37,13 +36,9 @@ object Israel {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<br>
-## **Linguagens mais usadas**
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSantos7792&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
-<br>
-## **GitHub Estatísticas**
 
+## **GitHub Estatísticas:**
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelSantos7792&show_icons=true&theme=dracula&line_height=27" alt="Israel Santos github stats"/>
 </a>
@@ -51,7 +46,7 @@ object Israel {
 [twitter]: https://twitter.com/israels63800787
 [instagram]: https://www.instagram.com/israel.santossilva.98/
 [linkedin]: https://www.linkedin.com/in/israel-santos-94123915a/
-<br>
+
 <br>
 #### Rede Sociais!
 
