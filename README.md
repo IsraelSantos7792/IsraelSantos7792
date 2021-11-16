@@ -13,7 +13,6 @@ object Israel {
  val name = "Israel Santos Da Silva"
  val acknowledgements = "Software Engineer"
  
- val primarySkillset = "motivado e animado"
  val languages = listOf("Ruby", "RubyOnRails", "JavaScript", "MySql", "React", "Linux", "ElasticSearch") 
 }
 ```
@@ -39,7 +38,7 @@ object Israel {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Israel Santos github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelSantos7792&show_icons=true&theme=dracula&line_height=27" alt="Israel Santos github stats"/>
 </a>
 
 [twitter]: https://twitter.com/israels63800787
