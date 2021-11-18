@@ -2,7 +2,7 @@
   
 ### Hey guys 👋
 
-Apaixonado por pessoas, tecnologia e games.
+I'm passionate about people, technology and games
 
 <p align="left">
   💌 I’m currently working at Leadfy-imob.
