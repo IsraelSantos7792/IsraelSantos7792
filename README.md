@@ -1,6 +1,6 @@
 
   
-<h1 align="center">Hi 👋, I'm Israel Santos</h1>
+<h1 align="center">Hello 👋, I'm Israel Santos</h1>
 <h3 align="center">A passionate Software Enginner from Brazil</h3>
 
 - 🔭 I’m currently working on [Leadfy-Imob](https://leadfy-imob.com.br/)
