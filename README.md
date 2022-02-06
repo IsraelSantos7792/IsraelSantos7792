@@ -18,7 +18,7 @@ object Israel {
  val acknowledgements = "Software Engineer"
  
  val languages = listOf("Ruby", "JavaScript", "C") 
- val frontend = listOf("HTML", "CSS", "Bootstrap", "React") 
+ val frontend = listOf("HTML", "CSS", "React") 
  val database = listOf("MySql", "Redis", "MariaDB", "ElasticSearch") 
  val devOps = listOf("Bash", "Docker")
  val framework = listOf("RubyOnRails")
