@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Ruby, Ruby On Rails and React**
-
+- 🧑🏻‍💻 Cadet at 42 São Paulo
 - 📫 How to reach me **israelsantosti21@gmail.com**
 - 🕹 If I am not coding then I am playing CS:go or FIFA s2.<br>
 
