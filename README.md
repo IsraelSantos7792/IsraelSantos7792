@@ -1,7 +1,7 @@
 
   
 <h1 align="center">Hello 👋, I'm Israel Santos</h1>
-<h3 align="center">A passionate Software Enginner Jr from Brazil</h3>
+<h3 align="center">A passionate Software Enginner from Brazil</h3>
 
 
 - 🌱 I’m currently learning **Ruby, Ruby On Rails and React**
