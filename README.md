@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ruby, Ruby On Rails and React**
 - 📫 How to reach me **israelsantosti21@gmail.com**
-- 🕹 If I am not coding then I am playing CS:go or FIFA s2.<br>
+- 🕹 If I am not coding then I am playing CS:go and FIFA s2.<br>
 
 
 ## **More about me:**
