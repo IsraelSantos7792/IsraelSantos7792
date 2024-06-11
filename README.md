@@ -19,7 +19,7 @@ object Israel {
  val languages = listOf("Ruby", "JavaScript", "C") 
  val frontend = listOf("HTML", "CSS", "React") 
  val database = listOf("MySql", "Redis", "MariaDB", "ElasticSearch") 
- val devOps = listOf("Bash", "Docker")
+ val devOps = listOf("Bash", "Heroku")
  val framework = listOf("RubyOnRails")
  val other = listOf("Linux","Git")
 }
