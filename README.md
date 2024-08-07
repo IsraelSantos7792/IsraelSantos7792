@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Software Enginner from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Ruby, Ruby On Rails and React**
 - 📫 How to reach me **israelsantosti21@gmail.com**
 - 🕹 If I am not coding then I am playing CS2 and FIFA.<br>
 
