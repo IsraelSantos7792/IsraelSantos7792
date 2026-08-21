@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Israel Santos</h1>
+<h1 align="center">I'm Israel Santos</h1>
 <h3 align="center">Passionate Software Engineer from Brazil</h3>
 <p align="center">
   <strong>Full Stack Senior</strong> · Ruby on Rails · React · Next.js · DDD
